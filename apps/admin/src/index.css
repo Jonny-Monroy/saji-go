@@ -1,0 +1,14 @@
+:root {
+  --saji-green: #7ED321;
+  --saji-orange: #FF6B00;
+  --saji-navy: #0A1628;
+  --saji-white: #FFFFFF;
+  --saji-gray: #F5F5F5;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  background: var(--saji-gray);
+  color: var(--saji-navy);
+}

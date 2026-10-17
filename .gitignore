@@ -1,0 +1,24 @@
+# Dependencias
+node_modules/
+**/node_modules/
+
+# Secretos y entorno
+.env
+**/.env
+*.env
+
+# Builds
+dist/
+build/
+.vite/
+
+# Logs y BD locales
+*.log
+*.sqlite
+*.db
+
+# Sistema / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
